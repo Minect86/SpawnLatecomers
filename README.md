@@ -31,7 +31,3 @@ RoleTypes:        # List of roles available for spawning
 
 ## Authors
 - **Minect** — Development and support.
-
----
-If you have suggestions or find any bugs, create an **Issue** or submit a **Pull Request**.
-
